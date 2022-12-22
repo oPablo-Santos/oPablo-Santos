@@ -2,7 +2,7 @@
 
 ###Hello, my name is Pablo Oliveira Santos, I am 20 years old, brazilian, software engineer student.
 
-###Olá, meu nomme e Pablo Oliveira Santos, tenho 20 anos, brasileiro, estudante de engenharia de software.
+###Olá, meu nome e Pablo Oliveira Santos, tenho 20 anos, brasileiro, estudante de engenharia de software.
 
 Apaixonado por tecnologia e games. 
 
