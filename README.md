@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+Hello, my name is Pablo Oliveira Santos, I am 20 years old, brazilian, software engineer student.
 
-###Hello, my name is Pablo Oliveira Santos, I am 20 years old, brazilian, software engineer student.
-
-###Olá, meu nome é Pablo Oliveira Santos, tenho 20 anos, brasileiro, estudante de engenharia de software.
+Olá, meu nome é Pablo Oliveira Santos, tenho 20 anos, brasileiro, estudante de engenharia de software.
 
 Apaixonado por tecnologia e games. 
 
@@ -66,4 +64,4 @@ Apaixonado por tecnologia e games.
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+
